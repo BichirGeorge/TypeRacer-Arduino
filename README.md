@@ -23,4 +23,5 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fwuriFjDXCg/0.jpg)](https://www.youtube.com/watch?v=fwuriFjDXCg)
 ## Schema Electrică
-![image](https://github.com/user-attachments/assets/f3395b92-b543-4d00-a230-51e12ddc6801)
+![image](https://github.com/user-attachments/assets/64a850d3-67a5-4073-acdc-cb4616c97bdb)
+
