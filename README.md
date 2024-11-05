@@ -13,9 +13,9 @@
 * Fire de legătură
 * Breadboard
 ## Setup fizic
-![1](https://github.com/user-attachments/assets/a59055c5-1766-44f8-a6f4-aa5431425ca3)
-![2](https://github.com/user-attachments/assets/b4074801-5632-4741-b001-bdb3af549905)
-![3](https://github.com/user-attachments/assets/6ac24f06-8287-4834-b84d-b58d6374be8c)
+![1](https://github.com/user-attachments/assets/7344dc9a-e499-4f68-be12-5d5acfb0b76c)
+![2](https://github.com/user-attachments/assets/e74e1fed-6876-4d1c-894a-b6973035b680)
+![3](https://github.com/user-attachments/assets/863f6be2-7c0c-4142-a424-ecd15abdb798)
 ## Funcționalitatea montajului fizic
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M8gUaeYEaQs/0.jpg)](https://www.youtube.com/watch?v=M8gUaeYEaQs)
 
